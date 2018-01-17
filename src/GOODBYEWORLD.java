@@ -11,5 +11,7 @@
 public class GOODBYEWORLD {
     public static void main(String[] args) {
         System.out.println("GOODBYE BS WORLD!!!");
+        System.out.println("OH WHAT A CRUEL WORLD THIS IS");
+        System.out.println("Btw that's a new sentence don't miss it.");
     }
 }
